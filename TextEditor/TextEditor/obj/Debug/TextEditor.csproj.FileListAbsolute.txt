@@ -1,0 +1,9 @@
+D:\VisualStudio\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+D:\VisualStudio\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\VisualStudio\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\VisualStudio\TextEditor\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+D:\VisualStudio\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\VisualStudio\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\VisualStudio\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+D:\VisualStudio\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+D:\VisualStudio\TextEditor\TextEditor\obj\Debug\TextEditor.Editor_de_texto.resources
